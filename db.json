@@ -1,10 +1,134 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
+  // tokken-api: mtstdDyj6FLyr-4HF
+"librosLotr" = [
+  {
+    id: 'b1eh',
+    nombre: 'El Hobbit(The Hobbit)',
+    publicacion: 1937,
+    paginas: 288,
+    introduccion: 'El hobbit (título original en inglés: The Hobbit, or There and Back Again, usualmente abreviado como The Hobbit) es una novela fantástica del filólogo y escritor británico J. R. R. Tolkien. Fue escrita por partes desde finales de los años 1920 hasta principios de los años 1930 y, en un principio, tan solo tenía el objetivo de divertir a los hijos pequeños de Tolkien.1​ No obstante, el manuscrito de la obra aún sin acabar fue prestado por el escritor a varias personas y finalmente acabó en manos de la editorial George Allen & Unwin. Dispuestos a publicarla, los editores pidieron a Tolkien que finalizara la obra y El hobbit fue publicada el 21 de septiembre de 1937 en el Reino Unido. Es la primera obra que explora el universo mitológico creado por Tolkien y que más tarde se encargarían de definir El Señor de los Anillos y El Silmarillion. Dentro de dicha ficción, el argumento de El hobbit se sitúa en el año 2941 de la Tercera Edad del Sol,2​ y narra la historia del hobbit Bilbo Bolsón, que junto con el mago Gandalf y un grupo de enanos, vive una aventura en busca del tesoro custodiado por el dragón Smaug en la Montaña Solitaria. Debido al éxito que tuvo y a las buenas críticas que recibió, los editores pidieron a Tolkien una continuación. Bautizada como El Señor de los Anillos, su cambio a un tono alejado del infantil provocó que El hobbit tuviera que ser modificado ligeramente para que ambas historias coincidieran mejor.3​ Tras la publicación en 1964 de la edición argentina titulada El hobito,4​ Ediciones Minotauro compró los derechos de las obras de Tolkien y publicó una traducción mejorada de la novela en España en 1982 y en Argentina en 1984.5​6​ La BBC Radio 4 realizó una adaptación radiofónica de El hobbit en 1968,7​ mientras que Arthur Rankin Jr. y Jules Bass produjeron una película sobre ella para la televisión.8​ En la actualidad ha finalizado la producción de una trilogía basada en El Señor de los Anillos producida por el director Peter Jackson.9​ A pesar de haberse involucrado por más de dos años en el diseño y producción de las adaptaciones al cine,10​ el 31 de mayo de 2010, el mexicano Guillermo del Toro renunció a la dirección de las cintas debido al retraso en el comienzo de la filmación por los problemas financieros que atraviesa la productora Metro-Goldwyn-Mayer.11​ En diciembre de 2012 se estrenó la primera parte, Un viaje inesperado, en 2013 se estrenó La desolación de Smaug, mientras que el estreno de la última película, La batalla de los Cinco Ejércitos, se realizó en diciembre de 2014. 12​ También se han creado varios videojuegos basados en la novela.',
+    portada: 'app/res/img/libro_elHobbit.jpg',
+  },
+  {
+    id: 'b2lcda',
+    nombre: 'La Comunidad del Anillo (The Fellowship of the Ring)',
+    publicacion: 1954,
+    paginas: 423,
+    introduccion: 'La Comunidad del Anillo (título original en inglés: The Fellowship of the Ring) es el primero de los tres volúmenes que forman la novela El Señor de los Anillos, secuela de El hobbit, del escritor británico J. R. R. Tolkien. La obra fue escrita para ser publicada en un solo tomo, pero debido a su longitud y coste, la editorial Allen & Unwin decidió dividirla.4​ Fue publicada el 29 de julio de 1954, año en el cual se publicó también la segunda parte, Las dos torres, y recibió críticas variadas aunque bastante mejores de las que esperaba el propio autor.5​ Está dividida a su vez en dos más, los libros I y II, precedidas de un prólogo y de un escrito titulado Nota sobre los archivos de la Comarca, que no apareció hasta la segunda edición de La Comunidad del Anillo.6​ En este último, Tolkien enumera las fuentes usadas a la hora de escribir el libro, ya que pretende dar a entender que la historia ocurrió en realidad.7​',
+    portada: 'app/res/img/libro_laComunidadDelAnillo.jpg',
+  },
+  {
+    id: 'b3l2t',
+    nombre: 'Las dos torres (The Two Towers)',
+    publicacion: 1954,
+    paginas: 352,
+    introduccion: 'Las dos torres (titulado originalmente en inglés: The Two Towers) es el segundo volumen de la novela de fantasía heroica El Señor de los Anillos, del escritor británico J. R. R. Tolkien. La Comunidad del Anillo precede a este volumen, y a su vez continúa en El retorno del Rey. La versión original en inglés fue publicada en 1954; y su traducción al español fue llevada a cabo por Matilde Horne2​ y Luis Domènech3​4​ para Ediciones Minotauro5​ y finalmente publicada en noviembre de 1979.6​ La historia transcurre dentro del universo ficticio de la Tierra Media, y en ella se continúa la narración de las aventuras de los protagonistas de La Comunidad del Anillo: la muerte de Boromir, el secuestro de Merry y Pippin por los orcos de Saruman y su posterior huida, las batallas de Aragorn, Legolas y Gimli en el Oeste en contra de los ejércitos del señor oscuro y el viaje de Frodo y Sam hacia el Este, cruzando las tierras controladas por el enemigo para llegar al Monte del Destino y destruir el Anillo Único.',
+    portada: 'app/res/img/libro_lasDosTorres.jpg',
+  },
+  {
+    id: 'b4erdr',
+    nombre: 'El retorno del Rey (The Return of the King)',
+    publicacion: 1955,
+    paginas: 413,
+    introduccion: 'El retorno del Rey (titulado originalmente en inglés: The Return of the King) es el tercer volumen de la novela de fantasía heroica El Señor de los Anillos, del escritor británico J. R. R. Tolkien. Las dos torres es el volumen inmediatamente anterior a este volumen, y el primero de la serie es La Comunidad del Anillo. La versión original en inglés fue publicada en 1955; y su traducción al español fue llevada a cabo por Matilde Horne2​ y Luis Domènech3​4​ para Ediciones Minotauro5​ y finalmente publicada en noviembre de 1980.6​',
+    portada: 'app/res/img/libro_elRetornoDelRey.jpg',
+  },
+  {
+    id: 'b5es',
+    nombre: 'El Silmarillion',
+    publicacion: 1977,
+    paginas: 494,
+    introduccion: 'El Silmarillion es una recopilación de obras de J. R. R. Tolkien, editada y publicada póstumamente por su hijo Christopher Tolkien, en 1977. En ella, se narra, entre otras cosas, la creación de Eä y el nacimiento de las razas más importantes (Valar, Maiar, elfos, hombres y enanos) de la Tierra Media. La mayor porción de El Silmarillion, titulada «Quenta Silmarillion» trata sobre los Silmaril, joyas hechas por Fëanor en Aman y alrededor de las cuales se entreteje la historia de la Primera Edad del Sol en la Tierra Media, principalmente en la región conocida como Beleriand. También se incluyen otras historias más breves: «Ainulindalë», «Valaquenta» y «Akallabêth». Una última historia («De los Anillos de Poder y la Tercera Edad») sirve como marco de referencia histórico para El hobbit y El Señor de los Anillos, las más conocidas novelas de Tolkien.',
+    portada: 'app/res/img/libro_elSilmarillion.jpg',
+  },
+];
+
+"peliculasLotr" = [
+  {
+    'nombre': 'El señor de los anillos: La comunidad del anillo',
+    'estreno': 2001,
+    'duracion': 180,
+    'direccion': 'Peter Jackson',
+    'guion': 'Fran Walsh, Philippa Boyens y Peter Jackson',
+    'musica': 'Howard Shore',
+    'reparto': 'Elijah Wood, Ian McKellen, Viggo Mortensen, Sean Astin, Sean Bean, John Rhys-Davies, Orlando Bloom, Dominic Monaghan, Billy Boyd, Cate Blanchett, Hugo Weaving, Liv Tyler, Ian Holm, Christopher Lee, Lawrence Makoare, Craig Parker, Andy Serkis, Marton Csokas',
+    'recaudacion': '887.9 Millones de $',
+    'sinopsis': 'En la Tierra Media, el Señor Oscuro Saurón ordenó a los Elfos que forjaran los Grandes Anillos de Poder. Tres para los reyes Elfos, siete para los Señores Enanos, y nueve para los Hombres Mortales. Pero Saurón también forjó, en secreto, el Anillo Único, que tiene el poder de esclavizar toda la Tierra Media. Con la ayuda de sus amigos y de valientes aliados, el joven hobbit Frodo emprende un peligroso viaje con la misión de destruir el Anillo Único. Pero el malvado Sauron ordena la persecución del grupo, compuesto por Frodo y sus leales amigos hobbits, un mago, un hombre, un elfo y un enano. La misión es casi suicida pero necesaria, pues si Sauron con su ejército de orcos lograra recuperar el Anillo, sería el final de la Tierra Media.',
+    'img': 'app/res/img/peliculaEsdla1.jpg',
+  },
+  {
+    'nombre': 'El señor de los anillos: Las dos torres',
+    'estreno': 2002,
+    'duracion': 179,
+    'direccion': 'Peter Jackson',
+    'guion': 'Fran Walsh, Philippa Boyens, Peter Jackson y Stephen Sinclair',
+    'musica': 'Howard Shore',
+    'reparto': 'Elijah Wood, Viggo Mortensen, Ian McKellen, Sean Astin, Andy Serkis, John Rhys-Davies, Orlando Bloom, Bernard Hill, Miranda Otto, David Wenham, Dominic Monaghan, Billy Boyd, Christopher Lee, Liv Tyler, Karl Urban, Brad Dourif, Hugo Weaving, Cate Blanchett, Craig Parker, John Leigh, Sean Bean, John Noble',
+    'recaudacion': '951.2 Millones de $',
+    'sinopsis': 'Tras la disolución de la Compañía del Anillo, Frodo y su fiel amigo Sam se dirigen hacia Mordor para destruir el Anillo Único y acabar con el poder de Sauron, pero les sigue un siniestro personaje llamado Gollum. Mientras, y tras la dura batalla contra los orcos donde cayó Boromir, el hombre Aragorn, el elfo Legolas y el enano Gimli intentan rescatar a los medianos Merry y Pipin, secuestrados por los orcos de Mordor. Por su parte, Saurón y el traidor Sarumán continúan con sus planes en Mordor, a la espera de la guerra contra las razas libres de la Tierra Media.',
+    'img': '../../res/img/peliculaEsdla2.jpg',
+  },
+  {
+    'nombre': 'El señor de los anillos: El retorno del rey',
+    'estreno': 2003,
+    'duracion': 201,
+    'direccion': 'Peter Jackson',
+    'guion': 'Fran Walsh, Philippa Boyens y Peter Jackson',
+    'musica': 'Howard Shore',
+    'reparto': 'Elijah Wood, Viggo Mortensen, Ian McKellen, Sean Astin, Andy Serkis, John Rhys-Davies, Orlando Bloom, John Noble, Miranda Otto, David Wenham, Bernard Hill, Billy Boyd, Dominic Monaghan, Liv Tyler, Karl Urban, Christopher Lee, Brad Dourif, Ian Holm, Hugo Weaving, Cate Blanchett, Lawrence Makoare, Marton Csokas, Sean Bean',
+    'recaudacion': '1142 Millones de $',
+    'sinopsis': 'Las fuerzas de Saruman han sido destruidas, y su fortaleza sitiada. Ha llegado el momento de decidir el destino de la Tierra Media, y, por primera vez, parece que hay una pequeña esperanza. El interés del señor oscuro Sauron se centra ahora en Gondor, el último reducto de los hombres, cuyo trono será reclamado por Aragorn. Sauron se dispone a lanzar un ataque decisivo contra Gondor. Mientras tanto, Frodo y Sam continuan su camino hacia Mordor, con la esperanza de llegar al Monte del Destino.',
+    'img': '../../res/img/peliculaEsdla3.jpg',
+  },
+  {
+    'nombre': 'El Hobbit: Un viaje inesperado',
+    'estreno': 2012,
+    'duracion': 170,
+    'direccion': 'Peter Jackson',
+    'guion': 'Fran Walsh, Philippa Boyens, Peter Jackson y Guillermo del Toro',
+    'musica': 'Howard Shore',
+    'reparto': 'Martin Freeman, Ian McKellen, Richard Armitage, Ken Stott, Graham McTavish, Aidan Turner, James Nesbitt, Dean O\'Gorman, Peter Hambleton, Stephen Hunter, John Callen, Adam Brown, William Kircher, Jed Brophy, Mark Hadlow, Ian Holm, Sylvester McCoy, Andy Serkis, Hugo Weaving, Cate Blanchett, Christopher Lee, Elijah Wood, Barry Humphries, Manu Bennett, Bret McKenzie, Terry Notary',
+    'recaudacion': '1.021 Millones de $',
+    'sinopsis': 'Precuela de la trilogía "El Señor de los Anillos", obra de J.R.R. Tolkien. En compañía del mago Gandalf y de trece enanos, el hobbit Bilbo Bolsón emprende un viaje a través del país de los elfos y los bosques de los trolls, desde las mazmorras de los orcos hasta la Montaña Solitaria, donde el dragón Smaug esconde el tesoro de los Enanos. Finalmente, en las profundidades de la Tierra, encuentra el Anillo Único, hipnótico objeto que será posteriormente causa de tantas sangrientas batallas en la Tierra Media.',
+    'img': '../../res/img/peliculaHobbit1.jpg',
+  },
+  {
+    'nombre': 'El Hobbit: La desolación de Smaug',
+    'estreno': 2013,
+    'duracion': 160,
+    'direccion': 'Peter Jackson',
+    'guion': 'Fran Walsh, Philippa Boyens, Peter Jackson y Guillermo del Toro',
+    'musica': 'Howard Shore',
+    'reparto': 'Martin Freeman, Richard Armitage, Ian McKellen, Aidan Turner, Luke Evans, Evangeline Lilly, Ken Stott, Orlando Bloom, Graham McTavish, James Nesbitt, Jed Brophy, Stephen Hunter, John Callen, Adam Brown, Dean O\'Gorman, William Kircher, Peter Hambleton, Mark Hadlow, Lee Pace, Ryan Gage, Stephen Fry, Mikael Persbrandt, Sylvester McCoy, Manu Bennett, Terry Notary',
+    'recaudacion': '958.4 Millones de $',
+    'sinopsis': 'El Hobbit: La Desolación de Smaug" continua la aventura de Bilbo Bolsón en su viaje con el mago Gandalf y trece enanos liderados por Thorin Escudo de Roble en una búsqueda épica para reclamar el reino enano de Erebor. En su camino toparán con multitud de peligros y harán frente al temible dragón Smaug.',
+    'img': '../../res/img/peliculaHobbit2.jpg',
+  },
+  {
+    'nombre': 'El Hobbit: La batalla de los cinco ejércitos',
+    'estreno': 2014,
+    'duracion': 144,
+    'direccion': 'Peter Jackson',
+    'guion': 'Fran Walsh, Philippa Boyens, Peter Jackson y Guillermo del Toro',
+    'musica': 'Howard Shore',
+    'reparto': 'Martin Freeman, Ian McKellen, Richard Armitage, Luke Evans, Orlando Bloom, Aidan Turner, Evangeline Lilly, Lee Pace, Ryan Gage, Ken Stott, Graham McTavish, James Nesbitt, Jed Brophy, Stephen Hunter, John Callen, Adam Brown, Dean O\'Gorman, William Kircher, Peter Hambleton, Mark Hadlow, Cate Blanchett, Hugo Weaving, Billy Connolly, Christopher Lee, Stephen Fry, Ian Holm, Sylvester McCoy, Manu Bennett',
+    'recaudacion': '956 Millones de $',
+    'sinopsis': 'Después de haber recuperado el reino del Dragón Smaug en la montaña, la Compañía ha desencadenado, sin querer, una potencia maligna. Un Smaug enfurecido vuela hacia la Ciudad del Lago para acabar con cualquier resto de vida. Obsesionado con las enormes riquezas en su poder, el rey enano Thorin se vuelve codicioso, mientras Bilbo intenta hacerle entrar en razón haciendo algo desesperado y peligroso. Pero hay aún mayores peligros por delante. Sin la ayuda del mago Gandalf, su gran enemigo Sauron ha enviado legiones de orcos hacia la Montaña Solitaria en un ataque épico. Cuando la oscuridad se cierna sobre ellos, las razas de los Enanos, Elfos y Hombres deberán decidir si unirse o ser destruidos. Bilbo se encontrará así en la batalla épica de los Cinco Ejércitos, donde el futuro de la Tierra Media está en juego.',
+    'img': '../../res/img/peliculaHobbit3.jpg',
+  },
+];
+"tolkien" = [
+  {
+    nombre: 'John Ronald Reuel Tolkien',
+    nacimiento: '3 de enero de 1892 Bloemfontein, Estado Libre de Orange, actual Sudáfrica',
+    fallecimiento: '2 de septiembre de 1973 (81 años) Bournemouth, Inglaterra, Reino Unido',
+    educacion: 'Maestría en Artes y Grado en Artes ',
+    educadoEn: 'King Edward\'s School de Birmingham, St. Philip\'s School, Universidad de Oxford (Inglés y Literatura en inglés; 1911-1915), Exeter College (Inglés; hasta 1915)',
+    ocupacion: 'Escritor, filólogo, poeta y profesor de Anglosajón, Lengua y Literatura inglesa en la Universidad de Oxford',
+    cargo: 'Cátedra Rawlinson y Bosworth de Anglosajón',
+    sobreEl: 'John Ronald Reuel Tolkien, CBE (AFI: dʒɒn ˈɹʷɒnld ˈɹʷuːəl ˈtʰɒlkiːn) (Bloemfontein, hoy Sudáfrica; 3 de enero de 1892-Bournemouth, Dorset; 2 de septiembre de 1973), a menudo citado como J. R. R. Tolkien o JRRT, fue un escritor, poeta, filólogo, lingüista y profesor universitario británico nacido en el desaparecido Orange al sur de África, conocido principalmente por ser el autor de las novelas clásicas de fantasía heroica El hobbit, El Silmarillion y El Señor de los Anillos. De 1925 a 1945, Tolkien ocupó la cátedra Rawlinson y Bosworth en la Universidad de Oxford, enseñando anglosajón y, de 1945 a 1959, fue profesor de Lengua y Literatura inglesa en Merton. Era amigo cercano del también escritor C. S. Lewis y ambos eran miembros de un informal grupo de debate literario conocido como los Inklings. Tolkien fue nombrado Comendador de la Orden del Imperio Británico por la reina Isabel II el 28 de marzo de 1972.1​ Después de su muerte, el tercer hijo de Tolkien, Christopher, publicó una serie de obras basadas en las amplias notas y manuscritos inéditos de su padre, entre ellas El Silmarillion y Los hijos de Húrin. Estos libros, junto con El hobbit y El Señor de los Anillos, forman un cuerpo conectado de cuentos, poemas, historias de ficción, idiomas inventados y ensayos literarios sobre un mundo imaginado llamado Arda, y más extensamente sobre uno de sus continentes, conocido como la Tierra Media. Entre 1951 y 1955, Tolkien aplicó la palabra legendarium a la mayor parte de estos escritos.2​3​4​5​ Si bien escritores como William Morris, Robert E. Howard y E. R. Eddison precedieron a Tolkien en el género literario de fantasía con obras tan famosas e influyentes como las de Conan el Bárbaro,6​ el gran éxito de El hobbit y El Señor de los Anillos cuando se publicaron en Estados Unidos condujo directamente al resurgimiento popular del género.6​7​ Esto ha causado que Tolkien sea identificado popularmente como «el padre» de la literatura moderna de fantasía,8​ o más concretamente, de la alta fantasía.9​ Los trabajos de Tolkien han inspirado muchas otras obras de fantasía y han tenido un efecto duradero en la cultura popular. En 2008, el periódico The Times le clasificó sexto en una lista de «Los 50 escritores británicos más grandes desde 1945».10​',
+  },
+];
   "profile": {
     "name": "typicode"
   }
