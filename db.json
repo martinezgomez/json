@@ -40,7 +40,7 @@
     "introduccion": "El Silmarillion es una recopilación de obras de J. R. R. Tolkien, editada y publicada póstumamente por su hijo Christopher Tolkien, en 1977. En ella, se narra, entre otras cosas, la creación de Eä y el nacimiento de las razas más importantes (Valar, Maiar, elfos, hombres y enanos) de la Tierra Media. La mayor porción de El Silmarillion, titulada «Quenta Silmarillion» trata sobre los Silmaril, joyas hechas por Fëanor en Aman y alrededor de las cuales se entreteje la historia de la Primera Edad del Sol en la Tierra Media, principalmente en la región conoc"id"a como Beleriand. También se incluyen otras historias más breves: «Ainulindalë», «Valaquenta» y «Akallabêth». Una última historia («De los Anillos de Poder y la Tercera Edad») sirve como marco de referencia histórico para El hobbit y El Señor de los Anillos, las más conoc"id"as novelas de Tolkien.",
     "portada": "app/res/img/libro_elSilmarillion.jpg",
   },
-];
+],
   "profile": {
     "name": "typicode"
   }
